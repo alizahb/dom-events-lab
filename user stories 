@@ -1,0 +1,24 @@
+
+As a user, I want to be able to select numbers so that I can perform operations with them.
+     X1. create variables for 
+            -number btn
+            -op butns
+            -= butn
+            -C btn
+            -display div
+     2. click event that produces innertext of the butn clicked 
+     3. if(certain butn is clicked) {
+        append innertext of that butn into the display div
+     }
+As a user, I want to be able to add two numbers together.
+
+As a user, I want to be able to subtract one number from another.
+
+As a user, I want to be able to multiply two numbers together.
+
+As a user, I want to be able to divide one number by another.
+
+As a user, I want to be able to see the output of the mathematical operation.
+
+As a user, I want to be able to clear all operations and start from 0.
+
